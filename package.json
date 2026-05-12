@@ -1,0 +1,11 @@
+{
+  "name": "random-js-example",
+  "version": "1.0.0",
+  "description": "Random example JS codebase with a few files",
+  "scripts": {
+    "start": "npx serve src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
