@@ -1,8 +1,6 @@
 /**
  * Creates a simple counter UI inside `rootElement`.
  *
- * NM26{y1QiSudnmXg4jG4O}
- * 
  * options:
  *  - initial: starting value (default 0)
  *  - onChange: callback(value) when value changes
